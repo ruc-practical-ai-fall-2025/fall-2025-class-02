@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fall-2024-class-03"
+name = "fall-2025-class-02"
 version = "0.1.0"
 description = "Review of common tools we will use for Practical AI."
 authors = ["Mauro J. Sanchirico III <156733573+mauro-j-sanchirico@users.noreply.github.com>"]
