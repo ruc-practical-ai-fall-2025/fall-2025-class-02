@@ -1,4 +1,4 @@
-# Fall 2024 Class 03 - Software Tools and Practice
+# Fall 2025 Class 02 - Software Tools and Practice
 
 In this class we review common tools we will use throughout the semester.
 
